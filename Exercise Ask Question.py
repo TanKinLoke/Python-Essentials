@@ -1,0 +1,6 @@
+x = input("What is your name? ")
+y = input("What is your age?")
+print("Name:",x)
+print("Age:",y)
+if (y == "15") : print ("Your age is",y)
+if (x == "Tan Kin Loke") : print ("Nice to meet you,",x)

@@ -1,0 +1,5 @@
+string1 = ("Chester")
+string2 = (" is ")
+string3 = ("super ")
+string4 = ("Awesome")
+print (string1+string2+string3+string4)
